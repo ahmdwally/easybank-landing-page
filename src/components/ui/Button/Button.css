@@ -1,0 +1,15 @@
+.request {
+	width: 10.6rem;
+	height: 2.7rem;
+	font-size: 1.125rem;
+	font-weight: 400;
+	border-radius: 30px;
+	border: none;
+	color: var(--White);
+	background-image: linear-gradient(to right ,var(--Lime-Green),var(--Bright-Cyan));
+}
+
+.request:hover {
+	opacity: 75%;
+	cursor: pointer;
+}

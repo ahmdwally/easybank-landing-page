@@ -1,0 +1,15 @@
+.box {
+	padding: 70px;
+}
+
+.box > h2 {
+	font-weight: 400;
+	font-size: 1.7em;	
+	color: var(--Dark-Blue);
+	margin-bottom: 50px;
+}
+
+.articles {
+	display: flex;
+	gap: 30px;
+}
