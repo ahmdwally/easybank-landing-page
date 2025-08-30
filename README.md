@@ -8,7 +8,7 @@ This is a solution to the:
 
 ![](./src/assets/screen.png)  
 
-- Live Site URL: https://ahmed-wally.github.io/easybank-landing-page 
+- Live Site URL: https://ahmdwally.github.io/easybank-landing-page/
 
 ## My process
 
